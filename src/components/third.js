@@ -9,7 +9,7 @@ const Third = (props) => {
         id={`simple-tabpanel-${props.index}`}
         aria-labelledby={`simple-tab-${props.index}`}
       >
-        Order Placed Successfully
+        Orders Placed Successfully
       </h1>
     </div>
   );
